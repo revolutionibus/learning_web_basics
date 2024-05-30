@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.logo h1 {
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav-links a {
+    color: #000;
+}
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a, .social-handles a {
+    text-decoration: none;
+}
+
+.social-handles a {
+    margin-left: 15px;
+    color:#000;
+    zoom:0.5;
+}
+.container-banner{
+    display:flex;
+    margin-left:50px;
+}
+
+h1{
+    font-size:50px;
+}
+.banner-image{
+    zoom:0.75;
+}
+
+
